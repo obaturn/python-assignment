@@ -1,0 +1,9 @@
+[
+  "testfunction1.py::test_calculate_string_len",
+  "testfunction1.py::test_get_maximum",
+  "testfunction1.py::test_get_minimum",
+  "testfunction1.py::test_get_words",
+  "testfunction1.py::test_getmaximum",
+  "testfunction1.py::test_getminimum",
+  "testfunction1.py::test_odd"
+]
